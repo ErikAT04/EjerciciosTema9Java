@@ -1,0 +1,4 @@
+EJERCICIO LISTACONCATENA:
+Añadir a la clase lista el método estático:
+Lista concatena(Lista l1, Lista l2) Que construye y devuelve una lista que contiene, en el mismo orden,
+una copia de todos los elementos de l1 y l2.

@@ -1,0 +1,6 @@
+EJERCICIO PILA:
+Una pila es una estructura dinámica de datos donde los elementos se insertan (se apilan) y se retiran (se desapilan) siguiendo la norma de que el último que se apila será el primero en desapilarse, como ocurre con una pila de platos.
+Son Lifo (Last in, First out).
+Se llama cima de la pila al último elemento apilado.
+Los métodos fundamentales de una pila son apilar y desapilar.
+Implementar la clase Pila para números Integer donde se usa la clase Lista implementada anteriormente para guardar los elementos apilados
